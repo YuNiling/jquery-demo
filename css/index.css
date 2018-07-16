@@ -1,0 +1,23 @@
+#menu{
+	width:340px;
+}
+.has_children{
+	background-color:#555;
+	color:#fff;
+	cursor: pointer;
+}
+.highlight{
+	background-color:#fff;
+	color:green;
+	display: block;
+}
+div{
+	padding: 0;
+	margin:10px 0;
+}
+div a{
+	background-color:#888;
+	display: none;
+	float: left;
+	width: 340px;
+}
